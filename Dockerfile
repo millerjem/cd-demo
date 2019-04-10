@@ -1,2 +1,2 @@
-FROM jekyll/jekyll:pages
+FROM jekyll/jekyll
 ADD site /srv/jekyll
