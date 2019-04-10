@@ -192,3 +192,5 @@ The script will check to see if your current machine has a valid `dcos_acs_token
 ## TODO
 
 + This script is currently untested on Windows.
+
++ Test on windows
