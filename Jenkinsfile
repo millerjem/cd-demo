@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
 
 def variants = ['open', 'ee']
-def channels = ['testing/master', 'testing/1.8.8', 'stable', 'EarlyAccess']
+def channels = ['testing/master', 'testing/1.8.8', 'stable', 'EarlyAccess','my-demo-branch']
 
 def cluster_request = [:]
 def cluster_info = [:]
