@@ -18,9 +18,12 @@
   "cpus": 0.1,
   "instances": 1,
   "labels": {
-    "HAPROXY_0_VHOST": "ELB_HOSTNAME",
+    "DCOS_SERVICE_SCHEME": "http",
     "HAPROXY_GROUP": "external",
-    "lastChangedBy": "velocity-team@mesosphere.com"
+    "lastChangedBy": "velocity-team@mesosphere.com",
+    "DCOS_SERVICE_NAME": "jenkins-deployed-app",
+    "DCOS_SERVICE_PORT_INDEX": "0",
+    "HAPROXY_0_VHOST": "ELB_HOSTNAME"
   },
   "mem": 128,
   "networks": [
