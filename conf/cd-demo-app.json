@@ -20,7 +20,7 @@
   "labels": {
     "DCOS_SERVICE_SCHEME": "http",
     "HAPROXY_GROUP": "external",
-    "lastChangedBy": "velocity-team@mesosphere.com",
+    "lastChangedBy": "john.miller@mesosphere.com",
     "DCOS_SERVICE_NAME": "jenkins-deployed-app",
     "DCOS_SERVICE_PORT_INDEX": "0",
     "HAPROXY_0_VHOST": "ELB_HOSTNAME"
